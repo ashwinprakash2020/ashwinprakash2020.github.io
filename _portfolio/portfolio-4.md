@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Plastic Manufacturing in India: Policies, Market Scope, and Sustainable Innovations"
-excerpt: "Understanding the manufacturing of plastics and it's environmental consequences.<br/><img src='/images/black1.png'>"
+excerpt: "Understanding the manufacturing of plastics and it's environmental consequences.<br/><img src='/images/Water.png'>"
 collection: portfolio
 ---
 

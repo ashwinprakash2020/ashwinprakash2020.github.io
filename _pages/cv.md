@@ -16,18 +16,18 @@ Education
 
 Experience
 ======
-* ##Research Assistant - Sep 2025 - Present
+## Research Assistant - Sep 2025 - Present
   * Chanakya University, Bengaluru, India
   
 
-* ##Market Research Intern - Jul 2024 - Nov 2024
+## Market Research Intern - Jul 2024 - Nov 2024
   * Assystant, Bengaluru, India
     * Collected and analyzed data from market surveys and secondary sources.
     * Utilized research tools to manage and analyze data, and contributed to survey design and implementation.
     * Conducted competitive analysis to identify market trends and opportunities.
     * Supported the development of market research reports.
 
-* ##Intern - Jun 2022 – Aug 2022:
+## Intern - Jun 2022 – Aug 2022:
   * TERI (The Energy and Resource Institute), New Delhi, India
     * Prepared detailed questionnaires to assess student's environmental awareness.
     * Edited educational videos to support division initiatives.

@@ -1,5 +1,5 @@
 ---
-title: "Measuring volatility of Hitachi Limited’s share using ARCH and GARCH modelling
+title: "Measuring volatility of Hitachi Limited’s share using ARCH and GARCH modelling"
 excerpt: "<br/><img src='/images/black1.png'>"
 collection: portfolio
 ---

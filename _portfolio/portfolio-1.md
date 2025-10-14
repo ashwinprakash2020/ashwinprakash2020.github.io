@@ -8,4 +8,4 @@ This thesis explores the persistent issue of black money in India through the le
 
 The analysis identifies key equilibrium strategies under different policy configurations and demonstrates how a dynamic, responsive penalty system one that escalates with greater under reporting can lead to more effective disclosure outcomes. It also emphasizes the importance of risk-based auditing and behaviourally informed policy design to counter procrastination and over optimism among tax evaders. The findings offer actionable insights for future IDS implementations, advocating for calibrated deterrence, efficient resource allocation, and credible enforcement as pillars of successful tax reform. Ultimately, the thesis contributes a robust theoretical foundation for designing IDS schemes that are both economically sound and behaviourally  realistic.
 
-[Download Here](https://github.com/ashwinprakash2020/ashwinprakash2020.github.io/blob/964c7bd17113c0c4ff82927807bb03dd9ca1b733/files/IDS.pdf)
+[Read here](https://drive.google.com/file/d/14jvgL4EYeYccubWawlBtHHX41vg1U86J/view?usp=sharing)

@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Applied Economics, Centre for Development Studies (JNU), 2025
+* B.A.(Hons) in Economics, Vivekananda Institute of Professional Studies (GGSIPU), 2023
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant - Sep 2025 - Present
+  * Chanakya University, Bengaluru, India
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Market Research Intern - Jul 2024 - Nov 2024
+  * Assystant, Bengaluru, India
+    * Collected and analyzed data from market surveys and secondary sources.
+    * Utilized research tools to manage and analyze data, and contributed to survey design and implementation.
+    * Conducted competitive analysis to identify market trends and opportunities.
+    * Supported the development of market research reports.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Intern - Jun 2022 – Aug 2022:
+  * TERI (The Energy and Resource Institute), New Delhi, India
+    * Prepared detailed questionnaires to assess student's environmental awareness.
+    * Edited educational videos to support division initiatives.
+    * Developed a comprehensive business plan to enhance outreach and effectiveness.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MS Office
+* Advance MS Excel
+* R Programming
+* SQL
+* LaTeX
+* STATA
+* Python
+* Data Extraction
 
-Publications
+Familiar Data Sources
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* CMIE Prowess
+* Annual Survey of Industries (ASI)
+* Annual Survey of Unincorporated
+* Sector Enterprises (ASUSE)
+* EPWRF
+* DGFT
+* UNCOMTRADE
+
+Certifications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* R Programming
+* Python and Machine Learning
+* Advanced Excel

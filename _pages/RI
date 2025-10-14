@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Research Interests"
+permalink: /RI/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.RI %}
+  {% include archive-single.html %}
+{% endfor %}

@@ -1,11 +1,25 @@
 ---
-title: "Tax Evasion and the Dynamics of Income Disclosure Schemes"
-excerpt: "Trying to understand Income Disclosure Schemes using a theoretical model.<br/><img src='/images/black1.png'>"
+title: "Structural Breaks, Growth Trends, and Inflation Dynamics: A Comparative Analysis of India and Assam"
+excerpt: "The analysis of growth and inflation trends is conducted for All India and Assam by examining
+GDP and CPI data by using Bai and Perron (1998) methodology.<br/><img src='/images/black1.png'>"
 collection: portfolio
 ---
 
-This thesis explores the persistent issue of black money in India through the lens of the Income Disclosure Scheme (IDS), with a focus on behavioural responses and strategic enforcement. Traditional IDS frameworks, which rely on fixed penalty structures, often fail to induce voluntary compliance from tax evaders. This work reformulates the IDS penalty parameter as an endogenous function of audit probability and penalty rate both of which are modelled to depend on the degree of evasion, enforcement resources, and macroeconomic constraints. By incorporating elements of game theory and behavioural economics, the paper captures the nuanced decision making processes of taxpayers who weigh the benefits of evasion against the risks of detection and disclosure.
+Economic growth and inflation are two fundamental macroeconomic indicators that influence
+policy decisions and overall economic stability. This study examines the trend growth rates of
+Gross Domestic Product (GDP) and Gross State Domestic Product (GSDP) at constant prices
+while incorporating structural breaks using the Bai and Perron (1998) methodology.
+Additionally, the study evaluates quarterly and annual inflation rates using both the
+GDP/GSDP deflator and the Consumer Price Index (CPI) for India and Assam.
+The analysis covers the latest available data, focusing on:
+* Trend growth rates of GDP and GSDP, detecting structural shifts and computing
+period-wise growth using the Boyce (1986) kinked exponential growth method.
+* Quarterly inflation trends, derived from both the GDP deflator and CPI, capturing short-
+term price fluctuations.
+* Annual headline and core inflation rates, where core inflation is computed by excluding
+food and fuel component.
+By analyzing these key economic indicators, this study aims to provide insights into India’s
+macroeconomic performance and compare it with Assam, highlighting policy implications for
+future economic planning.
 
-The analysis identifies key equilibrium strategies under different policy configurations and demonstrates how a dynamic, responsive penalty system one that escalates with greater under reporting can lead to more effective disclosure outcomes. It also emphasizes the importance of risk-based auditing and behaviourally informed policy design to counter procrastination and over optimism among tax evaders. The findings offer actionable insights for future IDS implementations, advocating for calibrated deterrence, efficient resource allocation, and credible enforcement as pillars of successful tax reform. Ultimately, the thesis contributes a robust theoretical foundation for designing IDS schemes that are both economically sound and behaviourally  realistic.
-
-[Download Here](https://github.com/ashwinprakash2020/ashwinprakash2020.github.io/blob/964c7bd17113c0c4ff82927807bb03dd9ca1b733/files/IDS.pdf)
+[Read here](https://drive.google.com/file/d/1MxOll4uNxSca9nAsEveiO9ogN4AyXu_R/view?usp=sharing)

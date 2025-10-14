@@ -17,6 +17,9 @@ main:
  # - title: "Teaching"
   #  url: /teaching/    
 
+   - title: "Research Interests"
+    url: /RI/
+
   - title: "CV"
     url: /cv/
     

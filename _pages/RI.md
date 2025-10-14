@@ -27,9 +27,9 @@ Environment and Sustainability
 ===
 
 There are few topics I am interested in from an environmental pov. I had some prior experience working with TERI which is focused on conserving the environment and sustainable development.
-*Electric Vehicles and its impact - Without a dependable renewable source of energy does using an EV matter? I am interested in comparing the environmental cost of both EV and a Petrol Vehicle.
-*Plastic pollution - I have interest in this topic because I had already worked with data related to the manufacturing of plastic commodities and the trends in import and export of plastic articles.
-*Growing land occupancy & Ecological Imbalance - This topic came up during a classroom discussion with my professor. I was curious about how land occupancy is causing the wild animals to enter the residential areas. Is that the only reason or it is the reason which might have led to something even worse.
+* Electric Vehicles and its impact - Without a dependable renewable source of energy does using an EV matter? I am interested in comparing the environmental cost of both EV and a Petrol Vehicle.
+* Plastic pollution - I have interest in this topic because I had already worked with data related to the manufacturing of plastic commodities and the trends in import and export of plastic articles.
+* Growing land occupancy & Ecological Imbalance - This topic came up during a classroom discussion with my professor. I was curious about how land occupancy is causing the wild animals to enter the residential areas. Is that the only reason or it is the reason which might have led to something even worse.
 
 Taxation and Public Policy
 ==

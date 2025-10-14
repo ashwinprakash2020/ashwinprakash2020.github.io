@@ -1,7 +1,7 @@
 ---
 title: "Structural Breaks, Growth Trends, and Inflation Dynamics: A Comparative Analysis of India and Assam"
 excerpt: "The analysis of growth and inflation trends is conducted for All India and Assam by examining
-GDP and CPI data by using Bai and Perron (1998) methodology.<br/><img src='/images/black1.png'>"
+GDP and CPI data by using Bai and Perron (1998) methodology.<br/><img src='/images/Break.png'>"
 collection: portfolio
 ---
 

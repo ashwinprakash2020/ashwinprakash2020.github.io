@@ -1,7 +1,7 @@
 ---
 title: "Tax Evasion and the Dynamics of Income Disclosure Schemes"
 excerpt: "Trying to understand Income Disclosure Schemes using a theoretical model.<br/><img src='/images/black1.png'>"
-collection: portfolio
+collection: Projects
 ---
 
 This thesis explores the persistent issue of black money in India through the lens of the Income Disclosure Scheme (IDS), with a focus on behavioural responses and strategic enforcement. Traditional IDS frameworks, which rely on fixed penalty structures, often fail to induce voluntary compliance from tax evaders. This work reformulates the IDS penalty parameter as an endogenous function of audit probability and penalty rate both of which are modelled to depend on the degree of evasion, enforcement resources, and macroeconomic constraints. By incorporating elements of game theory and behavioural economics, the paper captures the nuanced decision making processes of taxpayers who weigh the benefits of evasion against the risks of detection and disclosure.

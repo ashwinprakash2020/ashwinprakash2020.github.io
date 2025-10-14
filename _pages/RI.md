@@ -9,53 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.A. in Applied Economics, Centre for Development Studies (JNU), 2025
-* B.A.(Hons) in Economics, Vivekananda Institute of Professional Studies (GGSIPU), 2023
+Industrial Performance 
+=======
+Analyzing the various trends and offsets that happen in the Industrial sector and assessing its performance. I am interested in the impact of various public and private policies that might affect the working of the Industry. Specific policies such as Mergers and Acquisition, Disinvestment, etc. 
 
-Experience
-======
-* Research Assistant - Sep 2025 - Present
-  * Chanakya University, Bengaluru, India
-  
+Influence of AI
+====
+I am keen to identify the role of Artificial Intelligence in various fields, specifically academics and how its integration could build or break the foundations of academics. How often is AI used in Studies/Research and should it be completely eliminated?
 
-* Market Research Intern - Jul 2024 - Nov 2024
-  * Assystant, Bengaluru, India
-    * Collected and analyzed data from market surveys and secondary sources.
-    * Utilized research tools to manage and analyze data, and contributed to survey design and implementation.
-    * Conducted competitive analysis to identify market trends and opportunities.
-    * Supported the development of market research reports.
+Behavioural Economics
+===
+I am fascinated to look into why people behave in a certain way. My key interest is the involvement of the bandwagon effect in scenarios such as sudden trends which pop up. The role of the media in influencing the public.
 
-* Intern - Jun 2022 – Aug 2022:
-  * TERI (The Energy and Resource Institute), New Delhi, India
-    * Prepared detailed questionnaires to assess student's environmental awareness.
-    * Edited educational videos to support division initiatives.
-    * Developed a comprehensive business plan to enhance outreach and effectiveness.
-  
-Skills
-======
-* MS Office
-* Advance MS Excel
-* R Programming
-* SQL
-* LaTeX
-* STATA
-* Python
-* Data Extraction
+I wanted to explore this topic because of certain real life events, some being trends similar to the Ghibli style AI art and some of the trends being political such as a fictional flag being hoisted as a symbol of protest.
 
-Familiar Data Sources
-======
-* CMIE Prowess
-* Annual Survey of Industries (ASI)
-* Annual Survey of Unincorporated
-* Sector Enterprises (ASUSE)
-* EPWRF
-* DGFT
-* UNCOMTRADE
+Environment and Sustainability
+===
 
-Certifications
-======
-* R Programming
-* Python and Machine Learning
-* Advanced Excel
+There are few topics I am interested in from an environmental pov. I had some prior experience working with TERI which is focused on conserving the environment and sustainable development.
+*Electric Vehicles and its impact - Without a dependable renewable source of energy does using an EV matter? I am interested in comparing the environmental cost of both EV and a Petrol Vehicle.
+*Plastic pollution - I have interest in this topic because I had already worked with data related to the manufacturing of plastic commodities and the trends in import and export of plastic articles.
+*Growing land occupancy & Ecological Imbalance - This topic came up during a classroom discussion with my professor. I was curious about how land occupancy is causing the wild animals to enter the residential areas. Is that the only reason or it is the reason which might have led to something even worse.
+
+Taxation and Public Policy
+==
+How is the tax regime in India?  Comparing it with other countries with very high rates of taxes and with the countries with very low rates of taxes.
+While working on my MA thesis I came across the concept of tax heavens and why more and more people are setting up their operations in these said countries. I wanted to identify what compels them to shift towards such heavens.
+
+Population & Migration
+==
+Understanding if there is a need for migration and growing concern toward a larger migrant population. Emergence of protests all across the world regarding illegal immigration.
+In this I wanted to look how these arguments hold if hypothetically these migrants were to disappear. Would they thrive or have serious consequences and look at how it is affecting the geo political relationship between nations.
+
+
+
+
+
+
+
+
+
+

@@ -1,11 +1,23 @@
 ---
-title: "Tax Evasion and the Dynamics of Income Disclosure Schemes"
-excerpt: "Trying to understand Income Disclosure Schemes using a theoretical model.<br/><img src='/images/black1.png'>"
+title: "The Evolution of Plastic Manufacturing in India: Policies, Market Scope, and Sustainable Innovations"
+excerpt: "Understanding the manufacturing of plastics and it's environmental consequences.<br/><img src='/images/black1.png'>"
 collection: portfolio
 ---
 
-This thesis explores the persistent issue of black money in India through the lens of the Income Disclosure Scheme (IDS), with a focus on behavioural responses and strategic enforcement. Traditional IDS frameworks, which rely on fixed penalty structures, often fail to induce voluntary compliance from tax evaders. This work reformulates the IDS penalty parameter as an endogenous function of audit probability and penalty rate both of which are modelled to depend on the degree of evasion, enforcement resources, and macroeconomic constraints. By incorporating elements of game theory and behavioural economics, the paper captures the nuanced decision making processes of taxpayers who weigh the benefits of evasion against the risks of detection and disclosure.
+Plastics have become essential materials across numerous global industries, yet their
+widespread use has created significant environmental challenges. This paper will briefly
+examine the journey of plastics, from the initial inventions of organic and synthetic forms to
+their current ubiquitous presence. The global landscape of plastic production and trade reveals
+intricate dynamics, with certain countries leading in exports and imports. The Indian plastic
+industry has also experienced substantial growth, driven by increasing demand in sectors like
+packaging and construction, and fuelled by e-commerce and evolving consumer needs.
+However, this growth is accompanied by increasing concerns about plastic pollution,
+recognized as a serious global environmental problem. This has led to a growing emphasis
+on sustainable practices, reflected in various national policies and international efforts towards
+a legally binding instrument to end plastic pollution. Regulations such as waste management
+rules and single-use plastic bans are reshaping the industry, alongside a growing focus on
+recycling, bioplastics, and innovative waste management technologies. The future of the
+plastics industry is thus increasingly intertwined with the pursuit of sustainability and circular
+economy models to mitigate its environmental impact.
 
-The analysis identifies key equilibrium strategies under different policy configurations and demonstrates how a dynamic, responsive penalty system one that escalates with greater under reporting can lead to more effective disclosure outcomes. It also emphasizes the importance of risk-based auditing and behaviourally informed policy design to counter procrastination and over optimism among tax evaders. The findings offer actionable insights for future IDS implementations, advocating for calibrated deterrence, efficient resource allocation, and credible enforcement as pillars of successful tax reform. Ultimately, the thesis contributes a robust theoretical foundation for designing IDS schemes that are both economically sound and behaviourally  realistic.
-
-[Download Here](https://github.com/ashwinprakash2020/ashwinprakash2020.github.io/blob/964c7bd17113c0c4ff82927807bb03dd9ca1b733/files/IDS.pdf)
+[Read here](https://drive.google.com/file/d/1S9Q89zb5n3BWviKXdd_rN5E6nsCgn9jj/view?usp=sharing)

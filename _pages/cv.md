@@ -48,8 +48,7 @@ redirect_from:
 
 * CMIE Prowess
 * Annual Survey of Industries (ASI)
-* Annual Survey of Unincorporated
-* Sector Enterprises (ASUSE)
+* Annual Survey of Unincorporated Sector Enterprises (ASUSE)
 * EPWRF
 * DGFT
 * UNCOMTRADE
